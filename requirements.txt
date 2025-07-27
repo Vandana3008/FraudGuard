@@ -1,0 +1,8 @@
+flask==2.3.3
+nltk==3.8.1
+pandas==2.0.3
+numpy==1.25.2
+scikit-learn==1.2.2
+gunicorn==21.2.0
+
+# Python 3.10.16
